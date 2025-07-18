@@ -1,5 +1,17 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
 
+COMPANY: CodTech IT Solutions
+
+NAME: Yash Kumar
+
+INTERN ID: CT06DG602
+
+DOMAIN: Machine Learning
+
+DURATION: 6 Weeks
+
+MENTOR: Neela Santosh
+
 This project performs sentiment analysis on movie reviews using the IMDB Dataset and the TF-IDF approach for feature extraction.
 
 📁 Dataset
