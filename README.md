@@ -98,3 +98,13 @@ Regex (re): For text cleaning
 
 TF-IDF Vectorizer: To handle textual data
 
+⚡Key Highlights
+ 
+Clean and minimal code using only traditional ML — no deep learning
+
+Interactive review prediction function
+
+Insightful feature extraction showing most influential words
+
+Lightweight model, fast training, good accuracy — ideal for small-scale NLP projects
+
