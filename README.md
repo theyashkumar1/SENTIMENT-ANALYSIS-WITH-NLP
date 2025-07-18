@@ -1,4 +1,4 @@
-# SENTIMENT-ANALYSIS-WITH-NLP-
+# SENTIMENT-ANALYSIS-WITH-NLP
 
 This project performs sentiment analysis on movie reviews using the IMDB Dataset and the TF-IDF approach for feature extraction.
 
